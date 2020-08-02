@@ -1,5 +1,6 @@
 ---
 title: "Favorite Youtube Resources"
+excerpt: "Engineering Youtube channels."
 categories:
   - posts
 tags:

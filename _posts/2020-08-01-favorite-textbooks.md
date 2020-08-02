@@ -1,5 +1,6 @@
 ---
 title: "Favorite Textbooks"
+excerpt: "Textbooks I find really useful and readable."
 categories:
   - posts
 tags:
@@ -18,3 +19,7 @@ tags:
 - [Switching Power Supplies A - Z](https://www.amazon.com/gp/product/0123865336/) by Sanjaya Maniktala
 
 - [Understanding Delta-Sigma Data Converters](https://www.amazon.com/gp/product/1119258278/) by Shanthi Pavan, Richard Schreier and Gabor C. Temes
+
+- [Signal and Power Integrity](https://www.amazon.com/Signal-Power-Integrity-Simplified-Prentice-dp-013451341X/dp/013451341X/ref=dp_ob_title_bk) by Eric Bogatin
+
+- [Analog Circuit Design: Art, Science and Personalities](https://www.amazon.com/gp/product/0750696400/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1) edited by Jim Williams

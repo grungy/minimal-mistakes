@@ -6,6 +6,8 @@ last_modified_at: 2020-05-01T10:15:22-04:00
 toc: true
 ---
 
+<!-- FIXME -->
+
 Electrical Engineer who loves all things Engineering. Talk to me about your favorite: screw, microcontrollers, or fusion reactor. I love it all. Tweet me your favorite random engineering thing!
 
 - **Favorite Screw** : [Robertson](https://en.wikipedia.org/wiki/List_of_screw_drives#Robertson)
@@ -18,6 +20,9 @@ Electrical Engineer who loves all things Engineering. Talk to me about your favo
 - **Ph.D. Electrical and Computer Engineering**, University of Delaware,  2011–2019 
     - **Ph.D. Dissertation:** Abutted IRLED Infrared Scene Projector Design and Characterization 
     - **Focus Area**: Electro-optics and Embedded Systems
+
+# Post-graduate Courses #
+- *Essential Principles of Signal Integrity* by Eric Bogatin at bethesignal.com
 
 ## Areas of Expertise ##
 
